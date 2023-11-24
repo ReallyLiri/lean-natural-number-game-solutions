@@ -16,6 +16,4 @@ Note `Multiplication World` is numbered as `#3` while `Implication World` is num
 
 ## TODO
 
-- `Power World` - done 9/10
-- `Algorithm World`
 - `≤ World`
